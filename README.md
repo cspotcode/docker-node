@@ -1,5 +1,8 @@
 Fork of https://github.com/nodejs/docker-node
-I made changes in [./12/alpine3.10](tree/12/alpine3.10).
+
+I made changes in this subdirectory: [./12/alpine3.10](tree/12/alpine3.10).
+
+---
 
 # Node.js
 
